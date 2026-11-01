@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Nur Mohammad
 #### Sr. Research Engineer
-![Sr. Research Engineer](https://media.licdn.com/dms/image/v2/C4E16AQGJFcfhq9GvvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660918548556?e=1795046400&v=beta&t=DJP3UpL_qZwtMAbGj526XLvvxnZ0od43declUPrcAv8)
+![Sr. Research Engineer](https://media.licdn.com/dms/image/v2/D4D16AQH6IE5ua3TYRw/profile-displaybackgroundimage-shrink_350_1400/B4DaGYhaixJ8AY-/0/1793560259393?e=1795046400&v=beta&t=flOrG00Tk_j7J0NyLYnI_1YljiOoYj1T9yPqVyiNFeQ)
+
 
 Electrical & Electronics Engineer with 13+ years of professional experience in Hardware Development, Embedded Systems, Electronics R&D, PCB & Schematic Design, Microcontroller-Based Systems, Robotics, and Technical Product Evaluation. Currently working as a Senior Research Engineer at TechShop Bangladesh. Experienced in electronics testing, hardware troubleshooting, system integration, and engineering solutions. Exploring Edge AI, Computer Vision, YOLOv8, and AI-powered embedded applications using Raspberry Pi and other hardware platforms. Passionate about research, innovation, practical engineering, and technology development.
 
