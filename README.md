@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nur Mohammad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, I'm Nur Mohammad
+#### Sr. Research Engineer
+![Sr. Research Engineer](https://media.licdn.com/dms/image/v2/C4E16AQGJFcfhq9GvvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660918548556?e=1795046400&v=beta&t=DJP3UpL_qZwtMAbGj526XLvvxnZ0od43declUPrcAv8)
 
-- 📫 How to reach me **nur.engineer78@gmail.com**
+Electrical & Electronics Engineer with 13+ years of professional experience in Hardware Development, Embedded Systems, Electronics R&D, PCB & Schematic Design, Microcontroller-Based Systems, Robotics, and Technical Product Evaluation. Currently working as a Senior Research Engineer at TechShop Bangladesh. Experienced in electronics testing, hardware troubleshooting, system integration, and engineering solutions. Exploring Edge AI, Computer Vision, YOLOv8, and AI-powered embedded applications using Raspberry Pi and other hardware platforms. Passionate about research, innovation, practical engineering, and technology development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nurmohammadeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurmohammadeng" height="30" width="40" /></a>
-</p>
+Skills: Electronics & Hardware Development / Embedded Systems / PCB & Schematic Design / Microcontroller Programming / Hardware Testing & Troubleshooting / Electronics R&D / Robotics & Automation / C & C++ Programming / Raspberry Pi & Edge AI / Python & Computer Vision
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on TechShopBD 
+- 📫 How to reach me: nur.engineer78@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurmohammadeng/)  
+
