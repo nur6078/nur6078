@@ -22,4 +22,4 @@ An all-in-one AVR microcontroller trainer kit featuring ATmega32/16, LCD, sensor
 
 ### **Real-Time AI Vision System with Raspberry Pi 5**  
 An edge-AI-powered computer vision system utilizing Raspberry Pi 5, AI HAT+ (26 TOPS), and Camera Module 3 to achieve high-performance multi-person detection in real time.  
-🔗 [View Project](https://github.com/nur6078/Pi5-Edge-AI-Vision)
+🔗 [View Project](https://github.com/nur6078/Time-AI-Vision-System-with-Raspberry-Pi-5-AI-HAT-)
