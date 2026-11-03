@@ -5,7 +5,7 @@
 
 Electrical & Electronics Engineer with 13+ years of professional experience in Hardware Development, Embedded Systems, Electronics R&D, PCB & Schematic Design, Microcontroller-Based Systems, Robotics, and Technical Product Evaluation. Currently working as a Senior Research Engineer at TechShop Bangladesh. Experienced in electronics testing, hardware troubleshooting, system integration, and engineering solutions. Exploring Edge AI, Computer Vision, YOLOv8, and AI-powered embedded applications using Raspberry Pi and other hardware platforms. Passionate about research, innovation, practical engineering, and technology development.
 
-### 🧰Technical Skills
+## 🧰Technical Skills
 Embedded Systems & Hardware/ Electronics & Hardware Development / Embedded Systems / PCB & Schematic Design / Microcontroller Programming / Hardware Testing & Troubleshooting / Electronics R&D / Robotics & Automation / C & C++ Programming / Raspberry Pi & Edge AI / Python & Computer Vision
 
 - 🔭 I’m currently working on TechShopBD 
@@ -14,13 +14,12 @@ Embedded Systems & Hardware/ Electronics & Hardware Development / Embedded Syste
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurmohammadeng/)  
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 ---
-
-## **AVR Trainer Kit Pro**  
+### **AVR Trainer Kit Pro**  
 An all-in-one AVR microcontroller trainer kit featuring ATmega32/16, LCD, sensors, and built-in programmer, designed for rapid hardware prototyping and embedded systems learning.  
-[View Project](https://github.com/your-username/AVR-Trainer-Kit-Pro)
+🔗 [View Project](https://github.com/your-username/AVR-Trainer-Kit-Pro)
 
-## **Real-Time AI Vision System with Raspberry Pi 5**  
+### **Real-Time AI Vision System with Raspberry Pi 5**  
 An edge-AI-powered computer vision system utilizing Raspberry Pi 5, AI HAT+ (26 TOPS), and Camera Module 3 to achieve high-performance multi-person detection in real time.  
-[View Project](https://github.com/your-username/Pi5-Edge-AI-Vision)
+🔗 [View Project](https://github.com/your-username/Pi5-Edge-AI-Vision)
