@@ -14,3 +14,12 @@ Embedded Systems & Hardware/ Electronics & Hardware Development / Embedded Syste
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurmohammadeng/)  
 
+### 🚀 Featured Projects
+
+⚡ **[AVR Trainer Kit Pro](https://github.com/your-username/AVR-Trainer-Kit-Pro)**
+An all-in-one AVR microcontroller trainer kit featuring ATmega32/16, LCD, sensors, and built-in programmer.
+🔗 [View Project](https://github.com/your-username/AVR-Trainer-Kit-Pro)
+
+🔌 **[Real-Time AI Vision System with Raspberry Pi 5](https://github.com/your-username/Pi5-Edge-AI-Vision)**
+An edge-AI-powered computer vision system using Raspberry Pi 5, AI HAT+ (26 TOPS), and Camera Module 3 for multi-person detection.
+🔗 [View Project](https://github.com/your-username/Pi5-Edge-AI-Vision)
